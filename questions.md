@@ -114,7 +114,7 @@ $('.elementClass').remove();
 <!DOCTYPE html>
 
 - Which is the attribute and value required on forms to allow file uploads?
- <input type="file">
+ input type= "file"
 
 ## Questions about CSS
 
