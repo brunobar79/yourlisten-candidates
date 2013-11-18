@@ -1,14 +1,4 @@
-## Personal details
 
-Name: 
-
-Country: 
-
-Hourly Rate: 
-
-Timezone: 
-
-Skype Id:
 ## Personal details
 
 Name: ahmad rabbani
