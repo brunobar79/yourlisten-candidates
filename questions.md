@@ -60,8 +60,7 @@ if (isset($var) && is_numeric($var)) {
 }
 
 - Write a function that adds a line to a log file the current date and time with this format: "[2013-09-23 00:3 0:15] - Status OK"
-	function logit() {
-		$msg = 'Status OK';
+	function logit($msg = 'Status OK') {
 		$now = date('Y-m-d H:i:s');
 		$line = sprintf('[%s] - %s', $now, $msg);
 		$this->out($line);
